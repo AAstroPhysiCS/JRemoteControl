@@ -12,7 +12,7 @@ Written in Java, used API:
 
 1. Good question. Well the first thing that you need to do, is to change the Address in "ClientUtil" class.
 There, you need to put **your** PC's name in it.
-2. You need to be in the same Internet. Whether it's a public Internet or not, does not matter!
+2. You need to be on the same Internet. Whether it's a public Internet or not, does not matter!
 3. Have fun :)
 
 ## Demonstration
