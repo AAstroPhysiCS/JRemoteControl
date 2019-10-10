@@ -19,5 +19,5 @@ There, you need to put **your** PC's name in it.
 
 ![alt text](https://github.com/AAstroPhysiCS/JRemoteControl/blob/master/src/main/java/images/Annotation%202019-10-10%20173416.png)
 
-**PS** Please enjoy my lovely Ice-Tea bottle :)
+**PS:** Please enjoy my lovely Ice-Tea bottle :)
 
