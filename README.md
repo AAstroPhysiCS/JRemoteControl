@@ -2,10 +2,11 @@
 
 Ow boy... this is by far the most intense project I did.
 
-This program allows you to capture your victim's camera, desktop, microphone and allows you to control his/her PC.
+This program allows you to capture your victim's camera, desktop, microphone and allows you to control his/her **PC**.
+
 The Audio Capture does sleep the Thread for 10 seconds, since it needs to record 10 seconds of audio.
-So beware, the other features might get stuck but after 10 seconds you will hear the voice.
-After you've unchecked the Audio Button, you'll get the other features immediately.
+So beware of that! the other features might get stuck but after 10 seconds you will hear the voice.
+And after you've unchecked the Audio Button, you'll get the other features immediately.
 
 Written in Java, used API:
 
