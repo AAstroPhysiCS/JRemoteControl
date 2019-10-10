@@ -5,7 +5,8 @@ Ow boy... this is by far the most intense project I did.
 This program allows you to capture your victim's camera, desktop, microphone and allows you to control his/her PC.
 Written in Java, used API:
 
-1. OpenCV for Java (Use: Camera Capture and Video Capture)
+1. JavaFX 
+2. OpenCV for Java (Use: Camera Capture and Video Capture)
 
 ## How to use?
 
