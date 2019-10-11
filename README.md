@@ -11,7 +11,7 @@ And after you've unchecked the Audio Button, you'll get the other features immed
 Written in Java, used API:
 
 1. JavaFX 
-2. OpenCV for Java (Use: Camera Capture and Video Capture)
+2. OpenCV for Java (Use: Camera Capture)
 
 ## How to use?
 
