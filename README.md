@@ -24,7 +24,7 @@ There, you need to put **your** PC's name in it.
 
 ## Demonstration
 
-Here is a quick demonstration. In this case, I am the victim. Since I can't show you the Audio Capture feature and the Control Feature
+Here is a quick demonstration. In this case, I am the victim. Since I can't show you the Audio Capture feature and the Control feature,
 you can figure it out by yourself
 
 ![alt text](https://github.com/AAstroPhysiCS/JRemoteControl/blob/master/src/main/java/images/Annotation%202019-10-10%20173416.png)
