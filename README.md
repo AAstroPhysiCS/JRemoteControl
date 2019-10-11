@@ -28,5 +28,5 @@ There, you need to put **your** PC's name in it.
 
 **PS:** Please enjoy my lovely Ice-Tea bottle :)
 
-*a Project by Okan Güclü*
+*a project by Okan Güclü*
 
